@@ -32,10 +32,9 @@ public class Cuenta {
 
     @Override
     public boolean equals(Object obj){
-        if(!(obj instanceof Cuenta)){ //Tambien valida que sea null
+        if(!(obj instanceof Cuenta c)){ //Tambien valida que sea null
             return false;
         }
-        Cuenta c = (Cuenta) obj;
         if(this.persona == null || this.saldo == null){
             return false;
         }
