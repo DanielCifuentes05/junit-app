@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.dcifuentes.junit5app.ejemplos.models.CuentaTest$JavaVersionTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 2, Time elapsed: 0.007 s -- in org.dcifuentes.junit5app.ejemplos.models.CuentaTest$JavaVersionTest
